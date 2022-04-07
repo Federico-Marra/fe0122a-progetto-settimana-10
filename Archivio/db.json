@@ -1,0 +1,52 @@
+{
+  "products": [
+  {
+    "id": 1,
+    "title":"Iphone 13",
+    "description":"Ottima fotocamera e display OLED",
+    "price":999,
+    "type":"elettronica",
+    "img":"assets/img/iphone-13.jpeg"
+  },
+  {
+    "id": 12,
+    "title":"Bicicletta elettrica",
+    "description":"Ottima bicicletta, veloce e funzionante, batteria ha un ottima durata",
+    "price":1300,
+    "type":"sport e salute",
+    "img":"assets/img/bici-elet.jpeg"
+  },
+  {
+    "id": 111,
+    "title":"Pentola a pressione in acciaio",
+    "description":"Ottima per preparare cibo, in maniera rapida",
+    "price":30,
+    "type":"cucina",
+    "img":"assets/img/pentola-press.jpg"
+  },
+  {
+    "id": 213,
+    "title":"Samsung s22 ultra",
+    "description":"La confezione contiene anche il caricabatterie Samsung da 25W per la Ricarica Super-Rapida, per ricaricare il tuo Galaxy S22 Ultra 5G (codice prodotto EP-TA800NBEGEU).",
+    "price":1200,
+    "type":"elettronica",
+    "img":"assets/img/s22-ultra.jpeg"
+  },
+  {
+    "id": 1131,
+    "title":"Huawai P50 pro",
+    "description":"Fotocamera a doppia matrice True-Form: L' obiettivo HUAWEI XD consente di scattare foto molto più nitide, mentre il motore di immagine HUAWEI XD Fusion Pro migliorato riesce a riprodurre i più piccoli dettagli dell' immagine.",
+    "price": 1149,
+    "type":"elettronica",
+    "img":"assets/img/p50.jpeg"
+  },
+  {
+    "id": 511,
+    "title":"Divano",
+    "description":"Divano in pelle, per dare uno stile moderno ed elegante alla tua casa",
+    "price":2000,
+    "type":"poltrone e sofà",
+    "img":"assets/img/divano-pelle.jpeg"
+  }
+  ]
+}
